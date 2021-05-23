@@ -8,8 +8,8 @@ The following libraries which are uswed  for , training, testing and deployment 
 
 •Pandas 
 •Numpy 
-•seaborn 
-•sklearn 
+•Seaborn 
+•Sklearn 
 •Matplotlib
 •keras 
 # Code 
