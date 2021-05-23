@@ -5,12 +5,13 @@ Project 2 - CiFAR-10 Images Classification Using CNNs
 The main code for this project is provided in the Project 2 - CiFAR-10 Images Classification Using CNNs .ipynb notebook file.
 
 The following libraries which are uswed  for , training, testing and deployment were used:
-Pandas 
-Numpy 
-seaborn 
-sklearn 
-matplotlib
-keras 
+
+•Pandas 
+•Numpy 
+•seaborn 
+•sklearn 
+•Matplotlib
+•keras 
 # Code 
 Code is provided in the below file 
 "Project 2 - CiFAR-10 Images Classification Using CNNs .ipynb notebook file."
